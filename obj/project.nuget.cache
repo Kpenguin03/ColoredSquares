@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lzlxg52WGq3FtYhMSTTrfSenLWJqNJkN/hgi6YpFVViJrh7SEc1q/3KX7yow8R/UZxybYaCnY5tg1EBLbYlC+g==",
+  "success": true,
+  "projectFilePath": "D:\\Krisst_VS_Code\\SideProjects\\RTS\\RTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kriss\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\kriss\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
